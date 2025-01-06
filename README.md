@@ -1,4 +1,4 @@
-👋 Hi, I’m Pradeep Kumar A M 2024 Pass-Out Batch | Intern @Nasscom | MS Ramaiah Univerity - B.Tech | PES University - MBA|💞️ I’m actively looking to collaborate on a fresher Entry Level Job.
+👋 Hi, I’m Pradeep Kumar A M 2024 Pass-Out Batch | Interned @Nasscom | PES University - MBA| MS Ramaiah Univerity - B.Tech | I’m actively looking to collaborate on a fresher Entry Level Job.
 
 👀 I’m interested in Data Analyst, Business Analyst, Product Analyst, Marketing Analyst, Sales Analyst, Junior Project Manager.
 

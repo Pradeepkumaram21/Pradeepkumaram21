@@ -12,5 +12,6 @@
 
 🌐 How to reach me ampradeepkumar21@gmail.com
 
-🌐 Follow me - linkedin.com/in/pradeep-kumar-a-m-867912231 
+🌐 Follow me - https://www.linkedin.com/in/pradeep-kumar-a-m-867912231/
+
 

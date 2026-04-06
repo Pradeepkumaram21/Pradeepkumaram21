@@ -1,17 +1,9 @@
-👋 Hi, I’m Pradeep Kumar A M 2024 Pass-Out Batch | Interned @Nasscom | PES University - MBA| MS Ramaiah Univerity - B.Tech | I’m actively looking to collaborate on a fresher Entry Level Job.
+# Hey, I'm Pradeep Kumar A M 👋
 
-👀 I’m interested in Data Analyst, Business Analyst, Product Analyst, Marketing Analyst, Sales Analyst, Junior Project Manager.
+Marketing Operations Analyst based in Bangalore, India with 2 years of experience across marketing automation, CRM ops, and data analytics.
 
-📫 I have some intermediate knowledge of SQL / Power BI / Tableau / MS Excel.
+I've worked with tools like **Pardot, Salesforce CRM, Chili Piper, Tableau, Power BI, GA4, and Zapier** — managing campaign operations, lead routing, CRM data quality, and BI reporting across global teams.
 
-📫 Also Have knowledge about Business Tools like - Hubspot CRM Software, MS Office Software, Jira, and Confluence. 
+Engineer and MBA in Business Analytics & Marketing from PES University 
 
-📫 Learning Python, one step at a time.
-
-🤝 Looking forward to making awesome friends and contribute to open source.
-
-🌐 How to reach me ampradeepkumar21@gmail.com
-
-🌐 Follow me - https://www.linkedin.com/in/pradeep-kumar-a-m-867912231/
-
-
+📍 Bangalore ; 📧 ampradeepkumar21@gmail.com ; [LinkedIn](https://www.linkedin.com/in/pradeep-kumar-a-m-867912231)

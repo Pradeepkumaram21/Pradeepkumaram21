@@ -1,6 +1,6 @@
 # Hey, I'm Pradeep Kumar A M 👋
 
-Marketing Operations Analyst based in Bangalore, India with 2 years of experience across marketing automation, CRM ops, and data analytics.
+Marketing Operations Analyst based in Bangalore,with experience across email campaign execution, CRM operations, data analytics, reporting and workflow automation across SaaS and enterprise
 
 I've worked with tools like **Pardot, Salesforce CRM, Chili Piper, Tableau, Power BI, GA4, and Zapier** — managing campaign operations, lead routing, CRM data quality, and BI reporting across global teams.
 
